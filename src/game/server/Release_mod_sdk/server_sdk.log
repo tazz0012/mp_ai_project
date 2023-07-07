@@ -1,4 +1,4 @@
-﻿Build started 07/07/2023 13:52:15.
+﻿Build started 07/07/2023 21:07:28.
      1>Project "C:\Users\taz-e\Desktop\Src_code\source-sdk-2013-template-master\mp\src\game\server\server_sdk.vcxproj" on node 2 (Rebuild target(s)).
      1>PreBuildEvent:
          if EXIST ..\..\..\game\mod_sdk\bin\.\server.dll for /f "delims=" %%A in ('attrib "..\..\..\game\mod_sdk\bin\.\server.dll"') do set valveTmpIsReadOnly="%%A"
@@ -997,4 +997,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:03:42.39
+Time Elapsed 00:03:52.61

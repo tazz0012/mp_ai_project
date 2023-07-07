@@ -1,5 +1,5 @@
-﻿Build started 07/07/2023 13:51:43.
-     1>Project "C:\Users\taz-e\Desktop\Src_code\source-sdk-2013-template-master\mp\src\tier1\tier1.vcxproj" on node 3 (Rebuild target(s)).
+﻿Build started 07/07/2023 21:06:58.
+     1>Project "C:\Users\taz-e\Desktop\Src_code\source-sdk-2013-template-master\mp\src\tier1\tier1.vcxproj" on node 2 (Rebuild target(s)).
      1>PreBuildEvent:
          if EXIST ..\lib\public\.\tier1.lib ( for /f "delims=" %%A in ('attrib "..\lib\public\.\tier1.lib"') do set valveTmpIsReadOnly="%%A"
          ) else ( if not EXIST ..\lib\public\. mkdir ..\lib\public\. )
@@ -104,4 +104,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:31.64
+Time Elapsed 00:00:28.90

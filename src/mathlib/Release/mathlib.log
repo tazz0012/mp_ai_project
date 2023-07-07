@@ -1,5 +1,5 @@
-﻿Build started 07/07/2023 13:51:43.
-     1>Project "C:\Users\taz-e\Desktop\Src_code\source-sdk-2013-template-master\mp\src\mathlib\mathlib.vcxproj" on node 2 (Rebuild target(s)).
+﻿Build started 07/07/2023 21:06:58.
+     1>Project "C:\Users\taz-e\Desktop\Src_code\source-sdk-2013-template-master\mp\src\mathlib\mathlib.vcxproj" on node 4 (Rebuild target(s)).
      1>PreBuildEvent:
          if EXIST ..\lib\public\.\mathlib.lib ( for /f "delims=" %%A in ('attrib "..\lib\public\.\mathlib.lib"') do set valveTmpIsReadOnly="%%A"
          ) else ( if not EXIST ..\lib\public\. mkdir ..\lib\public\. )
@@ -67,4 +67,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:11.36
+Time Elapsed 00:00:22.51

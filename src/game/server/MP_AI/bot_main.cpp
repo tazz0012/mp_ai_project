@@ -181,7 +181,7 @@ static void RunPlayerMove( CSDKPlayer *fakeclient, CUserCmd &cmd, float frametim
 
 void Bot_HandleRespawn( CSDKBot *pBot, CUserCmd &cmd )
 {	
-	if (!pBot->IsAlive())
+	//if (!pBot->IsAlive())
 
 	// Try hitting my buttons occasionally
 	if ( random->RandomInt( 0, 100 ) > 80 )
