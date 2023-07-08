@@ -1,5 +1,5 @@
-﻿Build started 07/07/2023 21:06:58.
-     1>Project "C:\Users\taz-e\Desktop\Src_code\source-sdk-2013-template-master\mp\src\mathlib\mathlib.vcxproj" on node 4 (Rebuild target(s)).
+﻿Build started 08/07/2023 09:37:18.
+     1>Project "C:\Users\taz-e\Desktop\Src_code\mp_ai_project\mp_ai_project\src\mathlib\mathlib.vcxproj" on node 2 (Rebuild target(s)).
      1>PreBuildEvent:
          if EXIST ..\lib\public\.\mathlib.lib ( for /f "delims=" %%A in ('attrib "..\lib\public\.\mathlib.lib"') do set valveTmpIsReadOnly="%%A"
          ) else ( if not EXIST ..\lib\public\. mkdir ..\lib\public\. )
@@ -62,9 +62,9 @@
          .\Release\.\/ssenoise.obj
          .\Release\.\/vector.obj
          .\Release\.\/vmatrix.obj
-         mathlib.vcxproj -> C:\Users\taz-e\Desktop\Src_code\source-sdk-2013-template-master\mp\src\mathlib\..\lib\public\.\mathlib.lib
-     1>Done Building Project "C:\Users\taz-e\Desktop\Src_code\source-sdk-2013-template-master\mp\src\mathlib\mathlib.vcxproj" (Rebuild target(s)).
+         mathlib.vcxproj -> C:\Users\taz-e\Desktop\Src_code\mp_ai_project\mp_ai_project\src\mathlib\..\lib\public\.\mathlib.lib
+     1>Done Building Project "C:\Users\taz-e\Desktop\Src_code\mp_ai_project\mp_ai_project\src\mathlib\mathlib.vcxproj" (Rebuild target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:22.51
+Time Elapsed 00:00:16.54

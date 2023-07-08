@@ -2,3 +2,6 @@
 src/game_scratch.v12.suo
 src/game_scratch.sln
 src/game_scratch.sdf
+game/mod_sdk/bin/client.pdb
+game/mod_sdk/bin/server.pdb
+src/game/server/Release_mod_sdk

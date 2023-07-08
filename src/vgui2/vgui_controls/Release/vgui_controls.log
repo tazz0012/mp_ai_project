@@ -1,5 +1,5 @@
-﻿Build started 07/07/2023 21:06:58.
-     1>Project "C:\Users\taz-e\Desktop\Src_code\source-sdk-2013-template-master\mp\src\vgui2\vgui_controls\vgui_controls.vcxproj" on node 5 (Rebuild target(s)).
+﻿Build started 08/07/2023 09:37:19.
+     1>Project "C:\Users\taz-e\Desktop\Src_code\mp_ai_project\mp_ai_project\src\vgui2\vgui_controls\vgui_controls.vcxproj" on node 5 (Rebuild target(s)).
      1>PreBuildEvent:
          if EXIST ..\..\lib\public\.\vgui_controls.lib ( for /f "delims=" %%A in ('attrib "..\..\lib\public\.\vgui_controls.lib"') do set valveTmpIsReadOnly="%%A"
          ) else ( if not EXIST ..\..\lib\public\. mkdir ..\..\lib\public\. )
@@ -172,9 +172,9 @@
          .\Release\.\/vgui_key_translation.obj
          .\Release\.\/WizardPanel.obj
          .\Release\.\/WizardSubPanel.obj
-         vgui_controls.vcxproj -> C:\Users\taz-e\Desktop\Src_code\source-sdk-2013-template-master\mp\src\vgui2\vgui_controls\..\..\lib\public\.\vgui_controls.lib
-     1>Done Building Project "C:\Users\taz-e\Desktop\Src_code\source-sdk-2013-template-master\mp\src\vgui2\vgui_controls\vgui_controls.vcxproj" (Rebuild target(s)).
+         vgui_controls.vcxproj -> C:\Users\taz-e\Desktop\Src_code\mp_ai_project\mp_ai_project\src\vgui2\vgui_controls\..\..\lib\public\.\vgui_controls.lib
+     1>Done Building Project "C:\Users\taz-e\Desktop\Src_code\mp_ai_project\mp_ai_project\src\vgui2\vgui_controls\vgui_controls.vcxproj" (Rebuild target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:41.48
+Time Elapsed 00:00:39.82
